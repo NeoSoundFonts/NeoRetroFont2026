@@ -1,3 +1,7 @@
+# 2026-09-12
+
+- Added Brassy Lead.
+
 # 2026-09-17
 
 - Fixed FM Fingered Bass position.
