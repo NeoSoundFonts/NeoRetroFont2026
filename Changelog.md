@@ -1,3 +1,7 @@
+# 2026-10-28
+
+- Added Dance Piano, original samples from VCSL.
+
 # 2026-09-22
 
 - Added Brassy Lead.
