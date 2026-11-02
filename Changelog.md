@@ -1,3 +1,9 @@
+# 2026-11-02
+
+- Added Dance Organ.
+- Added Honky-Tonk.
+- Added L-50 Piano.
+
 # 2026-10-28
 
 - Added Dance Piano, original samples from VCSL.
